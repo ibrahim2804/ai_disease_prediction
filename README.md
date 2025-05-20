@@ -1,1 +1,2 @@
-# ai_disease_prediction
+# ai_disease-_prdeiction_app
+AI Disease Prediction
